@@ -13,7 +13,9 @@
   "author": "Miguel Echeverri <miguel@example.com>",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maeq5/jspro-repository.git"
